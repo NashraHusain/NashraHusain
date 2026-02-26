@@ -6,14 +6,14 @@
 
 ### 🚀 Quick Bio
 - 💻 Former **Advanced Java Intern** at JK Innovative Pvt. [cite_start]Ltd., where I led frontend teams[cite: 9, 10, 12].
-- [cite_start]🎓 **BE in Computer Science** graduate (GPA: 8.31/10).
-- [cite_start]🏆 **Lila Poonawalla Foundation (LPF) Scholar**.
+- [cite_start]🎓 **BE in Computer Science** graduate (GPA: 8.31/10)[cite: 34].
+- [cite_start]🏆 **Lila Poonawalla Foundation (LPF) Scholar**[cite: 34].
 - [cite_start]📍 Based in Amravati, Maharashtra[cite: 2].
 
 ### 🛠 Tech Stack
-- [cite_start]**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS.
-- [cite_start]**Backend:** Java (JSP, Servlets, JDBC), MySQL, RESTful APIs.
-- [cite_start]**Languages:** Java, Python, C++, SQL.
+- [cite_start]**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS[cite: 34].
+- [cite_start]**Backend:** Java (JSP, Servlets, JDBC), MySQL, RESTful APIs[cite: 34].
+- [cite_start]**Languages:** Java, Python, C++, SQL[cite: 34].
 
 ### 📂 Featured Projects
 

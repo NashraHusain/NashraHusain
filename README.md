@@ -1,8 +1,8 @@
-# Hi, I'm Nashra Kashaf Husain 👋
+# Hi, I'm Nashra Husain 👋
 
 **Frontend & Full-Stack Web Developer** | BE in Computer Science
 
-I am a dynamic, results-oriented developer with a passion for creating intuitive, performant, and scalable web solutions. Recently, I've focused on bridging the gap between complex data and user-centric web interfaces.
+I am a dynamic, results-oriented developer with expertise in building responsive, user-centric web applications and bridging the gap between complex data and intuitive interfaces.
 
 ### 🚀 Quick Bio
 * 💻 Former **Advanced Java Intern** at JK Innovative Pvt. Ltd., where I led frontend teams.
@@ -15,11 +15,23 @@ I am a dynamic, results-oriented developer with a passion for creating intuitive
 * **Backend:** Java (JSP, Servlets, JDBC), MySQL, RESTful APIs.
 * **Languages:** Java, Python, C++, SQL.
 
-### 📂 Featured Projects
+### 📂 Featured Projects (Live & Repos)
 
-* **[Modern Physics Explorer](https://nashrahusain.github.io/modern-physics-explorer/)**: An interactive educational platform developed using HTML5, CSS3, and JavaScript to visualise complex concepts like Relativity and Quantum Mechanics.
-* **[Royal Chess Pro](https://github.com/nashrahusain/royal-chess-pro)**: A professional, feature-rich chess application focusing on complex game logic, move validation, and a responsive user interface.
-* **[Personal Portfolio](https://nashrahusain.github.io/portfolio/)**: A high-performance site built with modern, responsive design principles to showcase technical skills and professional growth.
+* **[Modern Physics Explorer](https://nashrahusain.github.io/modern-physics-explorer/)**: An interactive educational platform developed using HTML5, CSS3, and JavaScript to visualize complex concepts like Relativity and Quantum Mechanics.
+* **[Royal Chess Pro](https://github.com/nashrahusain/royal-chess-pro)**: A professional chess application focusing on game logic, move validation, and a responsive user interface.
+* **[Personal Portfolio](https://nashrahusain.github.io/portfolio/)**: A high-performance site built with modern design principles to showcase technical skills and professional growth.
+
+### 💻 Additional Technical Work
+* **AQI Prediction Model**: Developed a regression-based ML model in Python to predict air quality and integrated RESTful APIs for real-time data visualization.
+* **Toy Library Management System**: Built a full-stack Java/MySQL application featuring dynamic interfaces for borrowing and real-time database updates.
+
+### 📜 Certifications
+* **Introduction to Front End Development** – Simplilearn (Feb 2026)
+* **AI Tools Workshop** – Be10x (Dec 2025)
+* **Microsoft AI Skills Challenge** – Microsoft (Jan 2024)
+* **Build Your Own Generative AI Model** – NxtWave (July 2024)
+* **Advanced Java Programming** – JK Innovative Pvt. Ltd. (Oct 2024)
+* **Python & C++ Programming**
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nashra-kashaf) | [Email](nashrakashaf@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nashra-kashaf) | [Email](mailto:nashrakashaf@gmail.com)

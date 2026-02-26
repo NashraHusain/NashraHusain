@@ -22,4 +22,4 @@ I am a dynamic, results-oriented developer with a passion for creating intuitive
 * **[Personal Portfolio](https://nashrahusain.github.io/portfolio/)**: A high-performance site built with modern, responsive design principles to showcase technical skills and professional growth.
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nashra-kashaf) | [Email](mailto:nashrakashaf@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/nashra-kashaf) | [Email](nashrakashaf@gmail.com)
